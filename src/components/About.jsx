@@ -13,21 +13,11 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit iure
-          at repudiandae obcaecati, earum recusandae dignissimos quibusdam ad
-          hic expedita quis enim odio nesciunt voluptas laborum similique eius
-          dolore eveniet laboriosam tenetur nisi maxime ex voluptatem corporis?
-          Voluptas inventore similique accusantium hic reiciendis labore
-          veritatis cupiditate obcaecati! Iusto, hic reiciendis.
-        </p>
-        <br />
-        <p className="text-xl">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum
-          facere adipisci quos exercitationem tempora, repellendus soluta
-          provident voluptatum iste odio magni sint, et libero ea quia
-          aspernatur similique quod! Reprehenderit nemo iste aliquid sapiente
-          illum incidunt, commodi omnis? Expedita quo, similique aut doloremque
-          omnis sapiente voluptatem quam voluptatibus laborum voluptatum?
+          Hey, I'm Sarams Rauniyar. I'm a Front-End Developer from Nepal. I have
+          serious passion for UI effects, animations and creating intuitive,
+          dynamic user experiences. I've a quite of experience in developing the
+          web application and websites. Some of the language which i used are
+          HTML, CSS, TAILWIND, REACT, JAVASCRIPT, etc......
         </p>
       </div>
     </div>
